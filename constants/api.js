@@ -1,0 +1,1 @@
+export const API_URL = "https://bookworm-backend-2b47.onrender.com/api";
